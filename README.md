@@ -20,4 +20,3 @@ This project demonstrates a complete CI/CD pipeline setup to automate the build 
 - GitHub (source code repository)
 - CentOS / RHEL-based Virtual Machines
  
- ---
