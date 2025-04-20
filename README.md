@@ -1,4 +1,4 @@
-# 🚀 CI/CD Automated Django Deployment using Jenkins, Ansible & Docker
+# 🚀 CI/CD Automated Django App Deployment
 
 This project demonstrates a complete CI/CD pipeline setup to automate the build and deployment of a Django web application using **Jenkins**, **Ansible**, and **Docker** across multiple Linux servers.
 
