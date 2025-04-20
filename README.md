@@ -19,3 +19,5 @@ This project demonstrates a complete CI/CD pipeline setup to automate the build 
 -   Docker (for containerization)
 -   GitHub (source code repository)
 -   RHEL-based Virtual Machines
+
+---
