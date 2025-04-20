@@ -18,6 +18,6 @@ This project demonstrates a complete CI/CD pipeline setup to automate the build 
 -   Ansible (for automation & deployment)
 -   Docker (for containerization)
 -   GitHub (source code repository)
--   CentOS / RHEL-based Virtual Machines
+-   RHEL-based Virtual Machines
 
 ---
